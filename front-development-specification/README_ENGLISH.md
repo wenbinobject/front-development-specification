@@ -6,9 +6,6 @@
 ## Front end index carding diagram
  - [Learn the front-end knowledge carding diagram](frontend.png)
 
-## Other r&d center documents of the company
-### - [Xi An colleague code specification document](http://192.168.60.180:8082/codeguide/index.html)
-### - [Nan Jing colleague code specification document](智慧社区前端开发规范文档.docx)
 # Airbnb CSS / Sass Styleguide
 
 *A mostly reasonable approach to CSS and Sass*
